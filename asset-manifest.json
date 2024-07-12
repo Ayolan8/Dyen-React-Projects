@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dyen-React-Projects/static/css/main.f542e360.css",
+    "main.js": "/Dyen-React-Projects/static/js/main.a3132ebe.js",
+    "index.html": "/Dyen-React-Projects/index.html",
+    "main.f542e360.css.map": "/Dyen-React-Projects/static/css/main.f542e360.css.map",
+    "main.a3132ebe.js.map": "/Dyen-React-Projects/static/js/main.a3132ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f542e360.css",
+    "static/js/main.a3132ebe.js"
+  ]
+}
